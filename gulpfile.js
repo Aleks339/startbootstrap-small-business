@@ -17,6 +17,7 @@ gulp.task('dev', ['browserSync',"less"], function() {
     gulp.watch('less/**/*.less', ["less"]);
     gulp.watch('css/*.css', browserSync.reload);
     gulp.watch('*.html', browserSync.reload);
+    gulp.watch('*.php', browserSync.reload);
 });
 
 gulp.task('less', function() {
