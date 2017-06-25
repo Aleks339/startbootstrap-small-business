@@ -1,0 +1,24 @@
+{
+  "name": "mulana.loc",
+  "version": "1.0.0",
+  "description": "Site of the best Russian teacher in the whole World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleks339/startbootstrap-small-business.git"
+  },
+  "author": "Mulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleks339/startbootstrap-small-business/issues"
+  },
+  "homepage": "https://github.com/Aleks339/startbootstrap-small-business#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2",
+    "gulp-sync": "^0.1.4"
+  }
+}
