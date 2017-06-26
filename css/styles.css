@@ -1,6 +1,10 @@
 body {
   background-color: lightskyblue;
 }
+.anchor {
+  padding-top: 80px;
+  margin-top: -80px;
+}
 .langs {
   padding-top: 20px;
 }
